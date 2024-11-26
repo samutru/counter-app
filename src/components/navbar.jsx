@@ -13,7 +13,7 @@ const NavBar = ({ totalCounters }) => {
         >
           {totalCounters}
         </span>
-        Items
+        Items in the list
       </div>
     </nav>
   );
